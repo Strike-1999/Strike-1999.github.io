@@ -27,7 +27,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:kNveSf0_QMMJ:scholar.google.com/&output=citation&scisdr=CgJhE6VmEKun_DxP9kI:AAZF9b8AAAAAaIRJ7kK-5CmEU9PcB2NktHNJb3g&scisig=AAZF9b8AAAAAaIRJ7oVXwg8VsQcu2EAA7X_GMiM&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/pgs.png
 
-    - title: Automated Object Recognition in High-resolution Optical Remote Sensing Imagery
+  - title: Automated Object Recognition in High-resolution Optical Remote Sensing Imagery
     authors: Yao Yazhou*, Tao Chen*, Bi Hanbo, <strong>Xinhao Cai</strong>, Pei Gensheng, Yang Guoye, Zhiyuan Yan†, Xian Sun†, Xing Xu†, Hai Zhang
     conference_short: NSR
     conference: National Science Review <strong>(NSR)</strong>.
