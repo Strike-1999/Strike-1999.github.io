@@ -1,36 +1,35 @@
 main:
+  - title: "Cycle-Consistent Learning for Joint Layout-to-Image Generation and Object Detection"
+    authors: "<strong>Xinhao Cai*</strong>, Qiuxia Lai*, Gensheng Pei, Xiangbo Shu, Yazhou Yao†, Wenguan Wang†"
+    conference_short: "ICCV"
+    conference: "IEEE International Conference on Computer Vision <strong>(ICCV)</strong>, 2025."
+    pdf: ""
+    code: ""
+    bibtex: ""
+    image: "./assets/img/gdcc.png"
 
-  - title: Cycle-Consistent Learning for Joint Layout-to-Image Generation and Object Detection
-    authors: <strong>Xinhao Cai*</strong>, Qiuxia Lai*, Gensheng Pei, Xiangbo Shu, Yazhou Yao†, Wenguan Wang†
-    conference_short: ICCV
-    conference: IEEE International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
-    pdf: 
-    code: 
-    bibtex: 
-    image: ./assets/img/gdcc.png
-
-  - title: Poly Kernel Inception Network for Remote Sensing Detection
-    authors: <strong>Xinhao Cai*</strong>, Qiuxia Lai*, Yuwei Wang*, Wenguan Wang†, Zeren Sun, Yazhou Yao†
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2403.06258
-    code: https://github.com/NUST-Machine-Intelligence-Laboratory/PKINet
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Kq8Pn4DBgTYJ:scholar.google.com/&output=citation&scisdr=CgJhE6VmEKun_DxMPBQ:AAZF9b8AAAAAaIRKJBTAKMuzoGU3CVU6B5a2JKQ&scisig=AAZF9b8AAAAAaIRKJOaK371ZfggI21UyGuk7PNM&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/pkinet.png
+  - title: "Poly Kernel Inception Network for Remote Sensing Detection"
+    authors: "<strong>Xinhao Cai*</strong>, Qiuxia Lai*, Yuwei Wang*, Wenguan Wang†, Zeren Sun, Yazhou Yao†"
+    conference_short: "CVPR"
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024."
+    pdf: "https://arxiv.org/abs/2403.06258"
+    code: "https://github.com/NUST-Machine-Intelligence-Laboratory/PKINet"
+    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:Kq8Pn4DBgTYJ:scholar.google.com/&output=citation&scisdr=CgJhE6VmEKun_DxMPBQ:AAZF9b8AAAAAaIRKJBTAKMuzoGU3CVU6B5a2JKQ&scisig=AAZF9b8AAAAAaIRKJOaK371ZfggI21UyGuk7PNM&scisf=4&ct=citation&cd=-1&hl=en"
+    image: "./assets/img/pkinet.png"
 
   - title: "Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection"
-    authors: Gensheng Pei, Tao Chen, Yujia Wang, <strong>Xinhao Cai</strong>, Xiangbo Shu, Tianfei Zhou, Yazhou Yao†
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2503.17080
-    code: https://github.com/NUST-Machine-Intelligence-Laboratory/CLIP-PGS
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:kNveSf0_QMMJ:scholar.google.com/&output=citation&scisdr=CgJhE6VmEKun_DxP9kI:AAZF9b8AAAAAaIRJ7kK-5CmEU9PcB2NktHNJb3g&scisig=AAZF9b8AAAAAaIRJ7oVXwg8VsQcu2EAA7X_GMiM&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/pgs.png
+    authors: "Gensheng Pei, Tao Chen, Yujia Wang, <strong>Xinhao Cai</strong>, Xiangbo Shu, Tianfei Zhou, Yazhou Yao†"
+    conference_short: "CVPR"
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025."
+    pdf: "https://arxiv.org/pdf/2503.17080"
+    code: "https://github.com/NUST-Machine-Intelligence-Laboratory/CLIP-PGS"
+    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:kNveSf0_QMMJ:scholar.google.com/&output=citation&scisdr=CgJhE6VmEKun_DxP9kI:AAZF9b8AAAAAaIRJ7kK-5CmEU9PcB2NktHNJb3g&scisig=AAZF9b8AAAAAaIRJ7oVXwg8VsQcu2EAA7X_GMiM&scisf=4&ct=citation&cd=-1&hl=en"
+    image: "./assets/img/pgs.png"
 
-  - title: Automated Object Recognition in High-resolution Optical Remote Sensing Imagery
-    authors: Yao Yazhou*, Tao Chen*, Bi Hanbo, <strong>Xinhao Cai</strong>, Pei Gensheng, Yang Guoye, Zhiyuan Yan†, Xian Sun†, Xing Xu†, Hai Zhang
-    conference_short: NSR
-    conference: National Science Review <strong>(NSR)</strong>.
-    pdf: https://academic.oup.com/nsr/article/10/6/nwad122/7152628
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:G6i_-3V32eoJ:scholar.google.com/&output=citation&scisdr=CgJhE6VmEKun_DxKnd8:AAZF9b8AAAAAaIRMhd-Qv6ept8EiOZ_Ksm8Boeo&scisig=AAZF9b8AAAAAaIRMhRfLOWL0xNIWLmejWuWmOr4&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/nsr.png
+  - title: "Automated Object Recognition in High-resolution Optical Remote Sensing Imagery"
+    authors: "Yao Yazhou*, Tao Chen*, Bi Hanbo, <strong>Xinhao Cai</strong>, Pei Gensheng, Yang Guoye, Zhiyuan Yan†, Xian Sun†, Xing Xu†, Hai Zhang"
+    conference_short: "NSR"
+    conference: "National Science Review <strong>(NSR)</strong>."
+    pdf: "https://academic.oup.com/nsr/article/10/6/nwad122/7152628"
+    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:G6i_-3V32eoJ:scholar.google.com/&output=citation&scisdr=CgJhE6VmEKun_DxKnd8:AAZF9b8AAAAAaIRMhd-Qv6ept8EiOZ_Ksm8Boeo&scisig=AAZF9b8AAAAAaIRMhRfLOWL0xNIWLmejWuWmOr4&scisf=4&ct=citation&cd=-1&hl=en"
+    image: "./assets/img/nsr.png"
