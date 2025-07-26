@@ -10,7 +10,7 @@ main:
     image: ./assets/img/gdcc.png
 
   - title: Poly Kernel Inception Network for Remote Sensing Detection
-    authors: <strong>Xinhao Cai*</strong>, Qiuxia Lai*, Yuwei Wang*, Wenguan Wang†, Zeren Sun, Yazhou Yao†, 
+    authors: <strong>Xinhao Cai*</strong>, Qiuxia Lai*, Yuwei Wang*, Wenguan Wang†, Zeren Sun, Yazhou Yao†
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
     pdf: https://arxiv.org/abs/2403.06258
