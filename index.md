@@ -8,8 +8,8 @@ I am currently pursuing a Ph.D. in the school of Computer Science and Engineerin
 
 ## Research Interests
 
-- **Image Generation**: Diffusion-based Foundation Model, Layout-to-image Generation
-- **Object Detection**: Remote Sensing Object Detection, General Object Detection
+- **Generation Model**: Diffusion-based Foundation Model, Layout-to-image Generation
+- **Perceptron Model**: Remote Sensing Object Detection, General Object Detection
 
 ## News
 
