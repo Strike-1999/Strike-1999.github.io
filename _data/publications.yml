@@ -1,11 +1,21 @@
 main:
+
+  - title: "Beyond Frequency: Scoring-Driven Debiasing for Object Detection via Blueprint-Prompted Image Synthesis"
+    authors: "<strong>Xinhao Cai*</strong>, Liulei Li*, Gensheng Pei, Tao Chen, Jinshan Pan, Yazhou Yao†, Wenguan Wang†"
+    conference_short: "ICCV"
+    conference: "International Conference on Learning Representations <strong>(ICLR)</strong>, 2026."
+    pdf: "https://openreview.net/pdf?id=SGSF9t9Vq2"
+    code: ""
+    bibtex: ""
+    image: "./assets/img/debias.png"
+
   - title: "Cycle-Consistent Learning for Joint Layout-to-Image Generation and Object Detection"
     authors: "<strong>Xinhao Cai*</strong>, Qiuxia Lai*, Gensheng Pei, Xiangbo Shu, Yazhou Yao†, Wenguan Wang†"
     conference_short: "ICCV"
     conference: "IEEE International Conference on Computer Vision <strong>(ICCV)</strong>, 2025."
-    pdf: ""
-    code: ""
-    bibtex: ""
+    pdf: "https://openaccess.thecvf.com/content/ICCV2025/papers/Cai_Cycle-Consistent_Learning_for_Joint_Layout-to-Image_Generation_and_Object_Detection_ICCV_2025_paper.pdf"
+    code: "https://openaccess.thecvf.com/content/ICCV2025/papers/Cai_Cycle-Consistent_Learning_for_Joint_Layout-to-Image_Generation_and_Object_Detection_ICCV_2025_paper.pdf"
+    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:Maqtj3hoOusJ:scholar.google.com/&output=citation&scisdr=Cn0kAVp6EOTopbOux70:AHkA5jQAAAAAaXio3700QjRBe-pbsWeaKEviWdk&scisig=AHkA5jQAAAAAaXio3xYxwPmC7_MdCyzLdpdO-tI&scisf=4&ct=citation&cd=-1&hl=en"
     image: "./assets/img/gdcc.png"
 
   - title: "Poly Kernel Inception Network for Remote Sensing Detection"
