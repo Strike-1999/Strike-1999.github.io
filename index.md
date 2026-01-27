@@ -13,7 +13,7 @@ I am currently pursuing a Ph.D. in the school of Computer Science and Engineerin
 
 ## News
 
-- **[Jan. 2025]** Our paper "Beyond Frequency: Scoring-Driven Debiasing for Object Detection via Blueprint-Prompted Image Synthesis" is accepted to **ICLR 2026**!
+- **[Jan. 2026]** Our paper "Beyond Frequency: Scoring-Driven Debiasing for Object Detection via Blueprint-Prompted Image Synthesis" is accepted to **ICLR 2026**!
 - **[July 2025]** Our paper "Cycle-Consistent Learning for Joint Layout-to-Image Generation and Object Detection" is accepted to **ICCV 2025**!
 - **[Feb. 2025]** Our paper "Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection" is accepted to **CVPR 2025**!
 - **[Feb. 2024]** Our paper "Poly Kernel Inception Network for Remote Sensing Detection" is accepted to **CVPR 2024**!
