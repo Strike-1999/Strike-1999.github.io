@@ -1,8 +1,17 @@
 main:
 
+  - title: "Iris: Bringing Real-World Priors into Diffusion Model for Monocular Depth Estimation"
+    authors: "<strong>Xinhao Cai</strong>, Gensheng Pei, Zeren Sun, Yazhou Yao†, Fumin Shen, Wenguan Wang†"
+    conference_short: "CVPR"
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026."
+    pdf: ""
+    code: ""
+    bibtex: ""
+    image: "./assets/img/Iris.png"
+
   - title: "Beyond Frequency: Scoring-Driven Debiasing for Object Detection via Blueprint-Prompted Image Synthesis"
     authors: "<strong>Xinhao Cai*</strong>, Liulei Li*, Gensheng Pei, Tao Chen, Jinshan Pan, Yazhou Yao†, Wenguan Wang†"
-    conference_short: "ICCV"
+    conference_short: "ICLR"
     conference: "International Conference on Learning Representations <strong>(ICLR)</strong>, 2026."
     pdf: "https://openreview.net/pdf?id=SGSF9t9Vq2"
     code: ""

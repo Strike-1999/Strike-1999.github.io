@@ -13,6 +13,7 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
+  <li><a href="https://ieee-cas.org/publication/tcsvt"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li>
     <li><a href="https://www.sciencedirect.com/journal/information-fusion"><autocolor>Information Fusion (IF)</autocolor></a></li>
     <li><a href="https://www.sciencedirect.com/journal/neural-networks"><autocolor>Neural Networks (NN)</autocolor></a></li>
     <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing</autocolor></a></li>

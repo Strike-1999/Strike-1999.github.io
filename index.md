@@ -4,15 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am currently pursuing a Ph.D. in the school of Computer Science and Engineering at Nanjing University of Science and Technology (NJUST), under the supervision of Prof. [Yazhou Yao](http://www.milab-nust.com/milab/web/currentmembershow.html?id=18). I also work very closely with Prof. [Wenguan Wang](https://sites.google.com/view/wenguanwang). Before that,  I received my undergraduate degree from the college of Qian-Xuesen, Nanjing University of Science and Technology.
+I am currently a Ph.D. candidate in the school of Computer Science and Engineering at Nanjing University of Science and Technology (NJUST), honored to be supervised by Prof. [Yazhou Yao](http://www.milab-nust.com/milab/web/currentmembershow.html?id=18). Since starting my Ph.D., I have been a long-term research intern at Zhejiang University, honored to be supervised by Prof. [Wenguan Wang](https://sites.google.com/view/wenguanwang). Before that,  I received my undergraduate degree from the college of Qian-Xuesen, Nanjing University of Science and Technology.
 
 ## Research Interests
 
 - **Generation Model**: Diffusion-based Foundation Model, Layout-to-image Generation
-- **Perceptron Model**: Remote Sensing Object Detection, General Object Detection
+- **Perceptron Model**: Depth Estimation, Remote Sensing Object Detection, General Object Detection
 
 ## News
 
+- **[Feb. 2026]** Our paper "Iris: Bringing Real-World Priors into Diffusion Model for Monocular Depth Estimation" is accepted to **CVPR 2026**!
 - **[Jan. 2026]** Our paper "Beyond Frequency: Scoring-Driven Debiasing for Object Detection via Blueprint-Prompted Image Synthesis" is accepted to **ICLR 2026**!
 - **[July 2025]** Our paper "Cycle-Consistent Learning for Joint Layout-to-Image Generation and Object Detection" is accepted to **ICCV 2025**!
 - **[Feb. 2025]** Our paper "Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection" is accepted to **CVPR 2025**!
