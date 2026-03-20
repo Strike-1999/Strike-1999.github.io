@@ -14,6 +14,7 @@ I am currently a Ph.D. candidate in the school of Computer Science and Engineeri
 ## News
 
 - **[Feb. 2026]** Our paper "Iris: Bringing Real-World Priors into Diffusion Model for Monocular Depth Estimation" is accepted to **CVPR 2026**!
+- **[Feb. 2026]** Our paper "PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation" is accepted to **CVPR 2026**!
 - **[Jan. 2026]** Our paper "Beyond Frequency: Scoring-Driven Debiasing for Object Detection via Blueprint-Prompted Image Synthesis" is accepted to **ICLR 2026**!
 - **[July 2025]** Our paper "Cycle-Consistent Learning for Joint Layout-to-Image Generation and Object Detection" is accepted to **ICCV 2025**!
 - **[Feb. 2025]** Our paper "Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection" is accepted to **CVPR 2025**!
