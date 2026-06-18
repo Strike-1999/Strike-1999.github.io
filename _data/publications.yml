@@ -1,5 +1,14 @@
 main:
 
+  - title: "PKINet-v2: Towards Powerful and Efficient Poly-Kernel Remote Sensing Object Detection"
+    authors: "<strong>Xinhao Cai</strong>, Liulei Li, Gensheng Pei, Zeren Sun, Yazhou Yao†, Wenguan Wang†"
+    conference_short: "ECCV"
+    conference: "European Conference on Computer Vision <strong>(ECCV)</strong>, 2026."
+    pdf: "https://arxiv.org/pdf/2603.16341"
+    code: "https://github.com/PKINet/PKINet"
+    bibtex: ""
+    image: "./assets/img/pkinet-v2.png"
+
   - title: "Iris: Bringing Real-World Priors into Diffusion Model for Monocular Depth Estimation"
     authors: "<strong>Xinhao Cai</strong>, Gensheng Pei, Zeren Sun, Yazhou Yao†, Fumin Shen, Wenguan Wang†"
     conference_short: "CVPR"

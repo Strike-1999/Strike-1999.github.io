@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. candidate in the school of Computer Science and Engineering at Nanjing University of Science and Technology (NJUST), honored to be supervised by Prof. [Yazhou Yao](http://www.milab-nust.com/milab/web/currentmembershow.html?id=18). Since starting my Ph.D., I have been a long-term research intern at Zhejiang University, honored to be supervised by Prof. [Wenguan Wang](https://sites.google.com/view/wenguanwang). Before that,  I received my undergraduate degree from the college of Qian-Xuesen, Nanjing University of Science and Technology.
+I received my Ph.D. degree from the school of Computer Science and Engineering at Nanjing University of Science and Technology (NJUST), honored to be supervised by Prof. [Yazhou Yao](http://www.milab-nust.com/milab/web/currentmembershow.html?id=18). During my Ph.D., I was a long-term research intern at Zhejiang University, honored to be supervised by Prof. [Wenguan Wang](https://sites.google.com/view/wenguanwang). Before that,  I received my undergraduate degree from the college of Qian-Xuesen, Nanjing University of Science and Technology.
 
 ## Research Interests
 
@@ -13,6 +13,8 @@ I am currently a Ph.D. candidate in the school of Computer Science and Engineeri
 
 ## News
 
+- **[June 2026]** I received my Ph.D. degree from Nanjing University of Science and Technology.
+- **[June 2026]** Our paper "PKINet-v2: Towards Powerful and Efficient Poly-Kernel Remote Sensing Object Detection" is accepted to **ECCV 2026**!
 - **[Feb. 2026]** Our paper "Iris: Bringing Real-World Priors into Diffusion Model for Monocular Depth Estimation" is accepted to **CVPR 2026**!
 - **[Feb. 2026]** Our paper "PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation" is accepted to **CVPR 2026**!
 - **[Jan. 2026]** Our paper "Beyond Frequency: Scoring-Driven Debiasing for Object Detection via Blueprint-Prompted Image Synthesis" is accepted to **ICLR 2026**!
