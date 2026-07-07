@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a postdoctoral fellow in AI Chip Center for Emerging Smart Systems (ACCESS) at the Hong Kong University of Technology and Science (HKUST), advised by [Prof. Kwang-Ting (Tim) Cheng](https://scholar.google.com/citations?user=-SgpaF8AAAAJ&hl=en&oi=ao).
+I am a postdoctoral fellow in AI Chip Center for Emerging Smart Systems (ACCESS) at the Hong Kong University of Technology and Science (HKUST), advised by [Prof. Kwang-Ting (Tim) Cheng](https://scholar.google.com/citations?user=-SgpaF8AAAAJ&hl=en&oi=ao). This postdoctoral fellowship is supported by Hong Kong's Innovation and Technology Fund (ITF), which is administered by the Innovation and Technology Commission (ITC).
 
 I received my Ph.D. degree from the school of Computer Science and Engineering at Nanjing University of Science and Technology (NJUST), honored to be supervised by Prof. [Yazhou Yao](http://www.milab-nust.com/milab/web/currentmembershow.html?id=18). During my Ph.D., I was a long-term research intern at Zhejiang University, honored to be supervised by Prof. [Wenguan Wang](https://sites.google.com/view/wenguanwang). Before that,  I received my undergraduate degree from the college of Qian-Xuesen, Nanjing University of Science and Technology.
 
